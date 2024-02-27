@@ -37,3 +37,12 @@ Broken down into 2 groups:
   1. What is the quality of sleep and the sleep duration for each group?
   2. How many individuals have a sleep disorder?
   3. BMI Category
+
+
+## Conclusion 
+In conclusion, nurses were the most affected by sleep apnea, while salespeople and teachers frequently experience insomnia. Additionally, sleep disorders were more common among women (n=103) compared to men (n=52), with the average age at which sleep disorder typically begins is at 46 years old.
+We also observed a negative correlation between stress level and both sleep duration and quality, indicating that the higher the stress levels associated with poorer sleep quality and duration. Conversely, higher sleep quality was linked to longer sleep duration.
+
+In terms of daily steps, we divided the data into two groups: those who walked more than 7,000 steps per day and those who walked less. Group 1 demonstrated better sleep quality compared to Group 2. Moreover, the majority of individuals in Group 2 suffered from sleep disorders, with only a few reporting none. Additionally, we observed a correlation between BMI levels and sleep disorders, with a majority of individuals suffering from sleep disorders categorized as overweight.
+
+Ultimately, to prevent sleep disorders, regular exercise routines such as walking can significantly benefit individuals' sleep quality and overall health.
