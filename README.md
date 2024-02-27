@@ -4,10 +4,11 @@
 
 The main goal is to investigate the factors contributing to sleep disorder, including occupation, age, gender, sleep duration, and daily steps.
 
-### Hypothesis:
+## Hypothesis:
+
 Healthcare workers are likely to experience sleep disorder compared to non-healthcare workers. Thus, they have low quality of sleep, short sleep durations, and a higher prevalence of sleep disorder.
 
-### Analysis breakdown:
+## Analysis breakdown:
 
 **Occupation vs. Sleep Disorder**
 
