@@ -47,3 +47,16 @@ We also observed a negative correlation between stress level and both sleep dura
 In terms of daily steps, we divided the data into two groups: those who walked more than 7,000 steps per day and those who walked less. Group 1 demonstrated better sleep quality compared to Group 2. Moreover, the majority of individuals in Group 2 suffered from sleep disorders, with only a few reporting none. Additionally, we observed a correlation between BMI levels and sleep disorders, with a majority of individuals suffering from sleep disorders categorized as overweight.
 
 Ultimately, to prevent sleep disorders, regular exercise routines such as walking can significantly benefit individuals' sleep quality and overall health.
+
+
+---
+Source: 
+
+Dataset: Sleep Health and Lifestyle: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
+Reference:
+The Effect of Physical Activity on Sleep Quality and Sleep Disorder: A Systematic Review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503965/
+
+Walk to a Better Night of Sleep: Testing the relationship between physical activity and sleep https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6801055/
+
+Seaborn documentation: https://seaborn.pydata.org/
